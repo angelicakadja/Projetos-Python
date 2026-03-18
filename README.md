@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="../Projetos-Python/img/Como editar um repositório no GitHub - cobrinha.png" alt="Hand with Fingers Splayed Light Skin Tone" width="700" />
+<img src="./img/Como editar um repositório no GitHub - cobrinha.png" alt="Hand with Fingers Splayed Light Skin Tone" width="700" />
 </div>
 <br/>
 
